@@ -35,7 +35,6 @@ void plus_number_to_3_period( int number , int a_plus , int b_plus , int ary[] )
 
 //---------------------------------------------------------
 
-
 //_______________________________________________________________________________________________________
 
 int main()
@@ -145,8 +144,6 @@ int main()
             date_min = date_today ;
 
         }
-
-
 
         day += 1 ;
     }
@@ -266,6 +263,8 @@ void plus_number_to_3_period( int number , int a_plus , int b_plus , int ary[] )
     }
 
 }
+
+//--------------------------------------------------------------------------------------
 
 // void plus_to_period_a_or_b_or_C( int number , int a_plus , int b_plus , int& period_a , int& period_b , int& period_c )
 // {
