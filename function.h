@@ -3,7 +3,6 @@ Author : mohammad amiri
 date: 16/9/1402
 */
 
-
 #include<iostream>
 #include<windows.h>
 using namespace std;
